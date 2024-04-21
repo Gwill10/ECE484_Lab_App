@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ECE484_App
 //
-//  Created by Makenzie Dietz on 4/21/24.
+//  Created by Grant Willoughby on 4/21/24.
 //
 
 import SwiftUI
